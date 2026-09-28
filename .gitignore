@@ -1,0 +1,10 @@
+venv/
+.claude/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.db
+fine_tuned_evaluator_checkpoint/
+saved_grading_model/
+company_hiring_vault.json
+.env
